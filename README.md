@@ -8,7 +8,7 @@
   Gusti IosNotify is a FiveM script for adding ios-like notifications on the server, and this script is standalone.
   <br />
   <br />
-  <a href="https://youtu.be/Yd7aBzqhY2k">View Demo</a>
+  <a href="https://youtu.be/aVZl9kGMdPs">View Demo</a>
   ·
   <a href="https://github.com/Gustiagung19/gusti-iosnotify/issues">Report Bug</a>
   ·
